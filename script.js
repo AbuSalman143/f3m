@@ -6,7 +6,7 @@ let fData=[];
 console.log(fData);
 function showData(arr)
 {
-    // bottom.innerHTML="";
+    bottom.innerHTML="";
     arr.forEach((i)=>
     {
         console.log(i);
